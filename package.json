@@ -1,0 +1,24 @@
+{
+  "name": "markdown-it-plugin",
+  "version": "0.1.0",
+  "description": "markdown-it plugin demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demohi/markdown-it-plugin.git"
+  },
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demohi/markdown-it-plugin/issues"
+  },
+  "homepage": "https://github.com/demohi/markdown-it-plugin#readme",
+  "dependencies": {
+    "markdown-it": "^4.4.0",
+    "markdown-it-imsize": "^2.0.1",
+    "markdown-it-mark": "^1.0.0"
+  }
+}
